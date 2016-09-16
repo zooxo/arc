@@ -7,7 +7,7 @@ ARC is a scientific calculator which can do basic (+-*/) and high level mathemat
 ARC runs on the popular arduino platform (AVR/ATmega) with 32 kbyte flash memory and 1 kbyte RAM. Due to the 8-bit-processor ARC calculates only 5 to 6 digits exactly. This should be enough for most calculations (except you are a bookkeeper who wants to add billion-amounts with cent-accuracy).
 
 ## How do I run ARC?
-Buy an arduino, install the arduino software (including appropriate libraries) on your PC and compile/upload "arc.ino" to your arduino. By defining (and compiling) one input- and one output channel ARC can be operated by a serial keyboard (terminal software like screen or putty) or a 12 key keyboard (4 rows, 3 columns). Output will be shown on a terminal or a 128x64 OLED-display.
+Buy an arduino, install the arduino software (including appropriate libraries) on your PC and compile/upload "arc.ino" to your arduino. By defining (and compiling) one input and one output channel ARC can be operated by a serial keyboard (terminal software like screen or putty) or a 12 key keyboard (4 rows, 3 columns). Output will be shown on a terminal or a 128x64 OLED-display.
 
 ## Which Commands and Keys does ARC support?
 * Basic keys: ENTER, DEL, +, -, *, /, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, EE, CHS, STO, RCL
