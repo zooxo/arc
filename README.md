@@ -9,7 +9,7 @@ ARC runs on the popular arduino platform (AVR/ATmega) with 32 kbyte flash memory
 ## How do I run ARC?
 Buy an arduino, install the arduino software (including appropriate libraries) on your PC and compile/upload "arc.ino" to your arduino. By defining (and compiling) one input and one output channel ARC can be operated by a serial keyboard (terminal software like screen or putty) or a 12 key keyboard (4 rows, 3 columns). Output will be shown on a terminal or a 128x64 OLED-display.
 
-## Which Commands and Keys does ARC support?
+## Which Commands does ARC support?
 * Basic keys: ENTER, DEL, +, -, *, /, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, EE, CHS, STO, RCL
 * Stack operations: SWAP, LASTx, ROT+, ROT-
 * Settings: DEG, RAD, FIX, SCI, SCROFF (screen off time in s, 2...200), CLOCK (counts h.ms)
