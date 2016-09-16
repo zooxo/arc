@@ -3,7 +3,7 @@
 ##What is ARC?
 ARC is a scientific calculator which can do basic (+-*/) and high level mathematical operations (trigonometric, statistics, regression). See below for detailed commands.
 
-## On which hardware runs ARC?
+## On which hardware does ARC run?
 ARC runs on the popular arduino platform (AVR/ATmega) with 32 kbyte flash memory and 1 kbyte RAM. Due to the 8-bit-processor ARC calculates only 5 to 6 digits exactly. This should be enough for most calculations (except you are a bookkeeper who wants to add billion-amounts with cent-accuracy).
 
 ## How do I run ARC?
