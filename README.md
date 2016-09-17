@@ -20,7 +20,19 @@ Buy an arduino, install the arduino software (including appropriate libraries) o
 * Statistic: CLRSUM, SUM+, SUM-, MEAN/STDDEV (mean value and standard deviation)
 * Linear regression: A+BX (interception and slope), ->X,Y (estimation of x and y)
 * Other: ANNU (present value for a given interest rate and duration), GAUSS (density and distribution), ->P (convert to polar and ...), ->R (... rectangular coordinates), ->H.MS (convert hours to hours, minutes, seconds ...), ->H (... and back), ->RAD (convert degrees to radians), ->DEG (and back)
- 
+
+## A short Video of a Miniaturized Mobile ARC
+http://youtu.be/F3uRQhoFq40
+
+In this video you can see the following calculations:
+* Approximating PI with 22/7
+* Inserting -3.14159265E-2
+* Setting to 6 decimal places (FIX)
+* Calculating the mean value and standard deviation of 4, 5 and 6 (including SWAP)
+* Convert a rectangular vector (1,1) to polar and back (swap to change arguments)
+* Calculating the Gauss normal distribution and density function at 0 (swap to change results)
+* Starting a clock at 8:16 (and 50 seconds)
+
 ## Some Pictures of a Miniaturized Mobile ARC
 
 ![ARC pictures](https://cloud.githubusercontent.com/assets/16148023/18578469/618225e8-7bf0-11e6-8ab1-5494e8903779.jpg "pictures")
