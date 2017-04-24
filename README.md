@@ -1,6 +1,6 @@
 # ARC (Arduino RPN Calculator) 1.0
 
-##What is ARC?
+## What is ARC?
 ARC is a scientific calculator which can do basic (+-*/) and high level mathematical operations (trigonometric, statistics, regression). See below for detailed commands.
 
 ## On which hardware does ARC run?
